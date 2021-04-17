@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Merrillg-github slide!"
 ---
-Your text - test something new
+This is my awesome slide
 Use the left arrow to go back!
